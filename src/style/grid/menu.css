@@ -1,8 +1,8 @@
 .menu-lateral {
     display: grid;
-   grid-template-rows: auto auto auto 1fr;
+   grid-template-rows: repeat(3, auto) 1fr;
 }
 
-.menu-lateral__log {
+.menu-lateral__logo {
     justify-self: center;
 }
