@@ -6,3 +6,8 @@
 .menu-lateral__logo {
     justify-self: center;
 }
+
+.menu-lateral__link {
+    display: flex;
+    align-items: center;
+}
